@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="2023.05.23-20.55.12.png" width="50%" />
+  <img src="Photos/2023.05.23-20.55.12.png" width="50%" />
 </p>
 
 <p align="center">
@@ -24,4 +24,8 @@
 
 <p align="center">
   <sub>↓</sub> 
+</p>
+
+<p align="center">
+  <img src="Photos/2023.05.23-20.55.12.png" width="50%" />
 </p>
