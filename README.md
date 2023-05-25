@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="Photos/2023.05.23-20.55.12.png" width="50%" />
+  <img src="Photos/image_2023-05-25_212103480.png" width="50%" />
 </p>
