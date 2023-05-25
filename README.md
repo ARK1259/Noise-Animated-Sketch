@@ -7,7 +7,7 @@
 #
 
 <p align="center">
-  <sub>screenshots of <code>Noise-Animated-Sketch</code> with different values Chrome</sub>
+  <sub>screenshots of <code>Noise-Animated-Sketch</code> extracted with canvas-sketch save settings</sub>
 </p>
 
 <p align="center">
@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="photos/2023.05.23-20.55.12.png" width="50%" />
+  <img src="2023.05.23-20.55.12.png" width="50%" />
 </p>
