@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="docs/assets/images/chrome-example.png" width="50%" />
+  <img src="photos/2023.05.23-20.55.12.png" width="50%" />
 </p>
