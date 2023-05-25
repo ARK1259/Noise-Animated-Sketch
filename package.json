@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "canvas-sketch": "^0.7.7",
+    "canvas-sketch-util": "^1.10.0",
+    "dat.gui": "^0.7.9",
+    "tweakpane": "^3.1.9"
+  }
+}
