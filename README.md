@@ -2,7 +2,6 @@
 
 `Noise-Animated-Sketch` is an Animated Sketch made with Java Script with help of Canvas-Sketch and Teakpane.
 
-- :closed_book: [Documentation](./docs/README.md)
 
 #
 
@@ -44,6 +43,8 @@
   <img src="Photos/image_2023-05-25_212103480.png" width="50%" />
 </p>
 
+#
+
 ### Teakpane
 <p>
 	<a href="https://cocopon.github.io/tweakpane/" target="_blank" align="left" >
@@ -57,6 +58,8 @@
   <p align="left">
   <img src="Photos/image_2023-05-25_212353707.png" width="30%" />
 </p>
+
+#
 
 ### Canvas-Sketch
 <p>
