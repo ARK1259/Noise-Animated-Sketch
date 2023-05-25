@@ -18,9 +18,23 @@
   <img src="Photos/2023.05.23-20.55.12.png" width="50%" />
 </p>
 
+
+<p align="center">
+  <img src="Photos/2023.05.23-19.26.56.png" width="50%" />
+</p>
+
+<p align="center">
+  <img src="Photos/2023.05.23-16.31.43.png" width="50%" />
+</p>
+
+<p align="center">
+  <img src="Photos/2023.05.23-17.07.58.png" width="50%" />
+</p>
+
 <p align="center">
   <sub>screenshots of <code>Noise-Animated-Sketch</code> and <code>Teakpane</code> running on operaGX</sub>
 </p>
+
 
 <p align="center">
   <sub>↓</sub> 
