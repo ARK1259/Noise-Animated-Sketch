@@ -1,4 +1,4 @@
-# Noise-Animated-Sketch
+### Noise-Animated-Sketch
 
 `Noise-Animated-Sketch` is an Animated Sketch made with Java Script with help of Canvas-Sketch and Teakpane.
 
@@ -43,3 +43,21 @@
 <p align="center">
   <img src="Photos/image_2023-05-25_212103480.png" width="50%" />
 </p>
+
+### Teakpane
+<p>
+	<a href="https://cocopon.github.io/tweakpane/" target="_blank" align="left" >
+			'Tweakpane WebSite'
+	</a>
+  </p>
+
+  With help of Tweakpane we can change our values live and have them ready to go!
+
+  
+  <p align="left">
+  <img src="Photos/image_2023-05-25_212353707.png" width="30%" />
+</p>
+  
+  
+  
+    
